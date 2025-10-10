@@ -19,6 +19,9 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 ---
 
+## 🎮 Jouer en ligne
+**Jouez directement dans votre navigateur :** [https://manacgrace.github.io/STARDESTROYER-UNITY-2D-WEB/](https://manacgrace.github.io/STARDESTROYER-UNITY-2D-WEB/)
+
 ## 👾 Télécharger le jeu
 - Cliquez sur **Code**
 - Ensuite cliquez sur **Télécharger ZIP**
