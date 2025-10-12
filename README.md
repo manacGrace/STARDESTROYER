@@ -11,16 +11,13 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 
 ## 🎥 Vidéo de démonstration (Cliquez sur l'image)
 
-<p align="center">
-  <a href="https://youtu.be/utw3Wgwx5jg">
-    <img src="https://img.youtube.com/vi/utw3Wgwx5jg/maxresdefault.jpg" alt="Vidéo de démonstration du jeu" width="600">
-  </a>
-</p>
+[![Vidéo de démonstration du jeu](https://img.youtube.com/vi/utw3Wgwx5jg/maxresdefault.jpg)](https://youtu.be/utw3Wgwx5jg)
 
 ---
 
 ## 🎮 Jouer en ligne
-**Jouez directement dans votre navigateur :** [https://manacgrace.github.io/STARDESTROYER-UNITY-2D-WEB/](https://manacgrace.github.io/STARDESTROYER-UNITY-2D-WEB/)
+
+**Jouez directement dans votre navigateur :** [STARDESTROYER](https://manacgrace.github.io/STARDESTROYER-UNITY-2D-WEB/)
 
 ## 🛠️ À venir
 
@@ -28,11 +25,17 @@ Le jeu s’inspire du classique *Space Invaders (1978)* et du jeu *Enter the Gun
 - Ajout de nouvelles vagues et bonus
 - Différents vaisseaux jouables
 - Système de score
-- Mode de jeu en vagues d’ennemis inifies/mode survie 
+- Mode de jeu en vagues d’ennemis inifies/mode survie
 
 ---
 
 ## 👤 Auteur
 
+**ALL ASSETS BY ME**
+*EXCEPT:*
+
+- [Music](https://youtube.com/playlist?list=PLmiRKKHd8X1acBWu03kIyf83IzQzznuVK&si=2Puifml9CM9AJuox)
+- [Sound Effects](https://www.101soundboards.com/boards/42084-weapons-enter-the-gungeon-sound-effects-nintendo-switch)
+
 **Manassé Teg Gbegnohou**  
-Projet réalisé en 2025
+Depuis Août 2025
