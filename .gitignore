@@ -1,1 +1,11 @@
-index.html
+
+# Ignore memory profiler and other generated images if present
+*.mem
+# Ignore temporary editor files
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.vs
+*.vscode
