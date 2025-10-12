@@ -1,6 +1,6 @@
 # Keep Assets, And Indedx.html
 /TemplateData/
-index.html
+
 
 # Ignore memory profiler and other generated images if present
 *.mem
